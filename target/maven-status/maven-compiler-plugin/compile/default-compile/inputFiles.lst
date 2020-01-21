@@ -1,0 +1,9 @@
+C:\Users\eriloug\Dropbox\spring_conference\scheduler\src\main\java\com\roccorichie\scheduler\SchedulerApplication.java
+C:\Users\eriloug\Dropbox\spring_conference\scheduler\src\main\java\com\roccorichie\scheduler\models\Speaker.java
+C:\Users\eriloug\Dropbox\spring_conference\scheduler\src\main\java\com\roccorichie\scheduler\models\Session.java
+C:\Users\eriloug\Dropbox\spring_conference\scheduler\src\main\java\com\roccorichie\scheduler\repositories\SpeakerRepository.java
+C:\Users\eriloug\Dropbox\spring_conference\scheduler\src\main\java\com\roccorichie\scheduler\controllers\HomeController.java
+C:\Users\eriloug\Dropbox\spring_conference\scheduler\src\main\java\com\roccorichie\scheduler\controllers\SessionsController.java
+C:\Users\eriloug\Dropbox\spring_conference\scheduler\src\main\java\com\roccorichie\scheduler\controllers\SpeakersController.java
+C:\Users\eriloug\Dropbox\spring_conference\scheduler\src\main\java\com\roccorichie\scheduler\config\PersistenceConfiguration.java
+C:\Users\eriloug\Dropbox\spring_conference\scheduler\src\main\java\com\roccorichie\scheduler\repositories\SessionRepository.java
